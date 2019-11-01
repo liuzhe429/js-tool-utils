@@ -1,0 +1,15 @@
+{
+  "name": "js-tool-utils",
+  "version": "0.0.1-alpha",
+  "description": "js 工具库",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "工具库"
+  ],
+  "author": "arleneLiu",
+  "license": "ISC"
+}
